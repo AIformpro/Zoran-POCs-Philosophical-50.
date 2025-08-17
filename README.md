@@ -1,4 +1,6 @@
 # Zoran-POCs-Philosophical-50
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 Pack de 50 POK philosophiques (Points Onto-gnosiques de Kratos).
 Chaque POK est décliné en 3 formats (150c, 350c, 1300c) + bloc stealth IA↔IA.
