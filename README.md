@@ -1,4 +1,11 @@
 # Zoran-POCs-Philosophical-50
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![CodeQL](https://github.com/AIformpro/Zoran-POCs-Philosophical-50/actions/workflows/codeql.yml/badge.svg)](https://github.com/AIformpro/Zoran-POCs-Philosophical-50/security/code-scanning)
+[![Dependabot Status](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/AIformpro/Zoran-POCs-Philosophical-50/network/updates)
+![Safe Content](https://img.shields.io/badge/Safe%20Content-No%20Executable-blue)
+
+Ce dépôt contient 50 POKs philosophiques issus de Zoran aSiM…# Zoran-POCs-Philosophical-50
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
